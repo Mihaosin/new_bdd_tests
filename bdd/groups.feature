@@ -4,7 +4,6 @@
 #  Then the new group list is equal to the old list with added group
 
 
-
 Scenario: Add new group
 Given a group list
 Given a group with name, header and footer
